@@ -1,8 +1,13 @@
 Nombre del proyecto: FidelizaBot
 
-Integrantes del equipo:
+Integrantes del GRUPO 2:
 - Annie Bonilla
 - Juanita Merchán
+
+Descripción:
+
+El programa permite registrar clientes, acumular puntos en función de sus compras y canjear recompensas disponibles según los puntos acumulados.
+Además, gestiona productos y recompensas mediante clases y métodos organizados que simulan la lógica de un sistema real de puntos.
 
 Problema que resuelve
 
